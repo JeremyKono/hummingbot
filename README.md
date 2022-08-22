@@ -34,7 +34,7 @@ Help us **democratize high-frequency trading** and make powerful trading algorit
 | <img src="assets/kucoin-logo.jpg" alt="KuCoin" width="90" /> | [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=272KvRf) | [spot](https://hummingbot.org/exchanges/kucoin/) | [![Hummingbot Certified](https://img.shields.io/badge/Hummingbot-Certified-green.svg)](https://hummingbot.org/maintenance/certification/) | [![Sign up with Kucoin using Hummingbot's referral link for a 10% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d10%25&color=orange)](https://www.kucoin.com/ucenter/signup?rcode=272KvRf)
 | <img src="assets/okex-logo.jpg" alt="OKEx" width="90" /> | [OKX](https://www.okx.com/join/1931920) | [spot](https://hummingbot.org/exchanges/okx/)  | [![Hummingbot Certified](https://img.shields.io/badge/Hummingbot-Certified-green.svg)](https://hummingbot.org/maintenance/certification/) | [![Sign up with OKX using Hummingbot's referral link for a 10% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d10%25&color=orange)](https://www.okx.com/join/1931920)
 
-## Centralized Exchange Connectors
+## Supported Centralized Exchange Connectors
 
 | logo | name | docs / market type    | signup |
 |:----:|------|-----------------------|:------:|
