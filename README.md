@@ -19,6 +19,11 @@ Hummingbot is an open source client-side framework that helps you build, manage,
 
 Help us **democratize high-frequency trading** and make powerful trading algorithms accessible to everyone in the world!
 
+## Hummingbot Exchange Certification
+
+Hummingbot's Exchange Certification program is a community-driven process that selects certain exchanges in the Hummingbot codebase to be certified. Certified exchanges are clearly differentiated from non-certified exchanges in the Hummingbot client and documentation, get developer bounties to fund bug fixes and improvements, priority support, and other benefits. Learn more [here](https://hummingbot.org/maintenance/certification/)
+
+
 ## Certified Cryptocurrency Exchanges
 
 
