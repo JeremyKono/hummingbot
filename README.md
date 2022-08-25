@@ -73,8 +73,8 @@ Help us **democratize high-frequency trading** and make powerful trading algorit
 
 ## Decentralized Exchange Connectors
 
-| logo | name | docs / market type |
-|:----:|------|-----------------------|
+| logo                                                                                                                                                                                   | name                                                                           | docs / market type                                                                                      | certified                                                                                                                   | code                                                                                                                                                                                                                | signup
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | <img src="assets/dydx-logo.jpg" alt="dYdX Perpetual" width="90" /> | [dYdX Perpetual](https://dydx.exchange/) | [perp clob](https://hummingbot.org/exchanges/dydx-perpetual/)
 | <img src="assets/loopring-logo.jpg" alt="Loopring" width="90" /> | [Loopring](https://loopring.io/) | [spot clob](https://hummingbot.org/exchanges/loopring/)
 | <img src="assets/pangolin-logo.jpg" alt="Pangolin" width="90" /> | [Pangolin](https://pangolin.exchange/) | [amm](https://hummingbot.org/gateway/exchanges/pangolin/)
